@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vincentpalomo
 - 👀 I’m interested in Programming & Web Development
-- 🌱 I’m currently learning ReactJS & NextJS
+- 🌱 I’m currently learning React
 
 <!---
 vincentpalomo/vincentpalomo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
