@@ -3,7 +3,7 @@
 </div>   -->
   
 
-### <div align="center">I'm Vincent, a fullstack developer </div>  
+### <div align="center">👋 I'm Vincent, a fullstack developer </div>  
   
 
 - 🔭 I’m currently working on [FitnessTrackr Frontend](https://github.com/anahuynh27/FitnessTracker_FrontEnd)  
