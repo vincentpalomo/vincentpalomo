@@ -6,7 +6,7 @@
 ### <div align="center">👋 I'm Vincent, a fullstack developer </div>  
   
 
-- 🔭 I’m currently working on [FitnessTrackr Frontend](https://github.com/anahuynh27/FitnessTracker_FrontEnd)  
+- 🔭 I’m currently working on [code-threads Capstone Project](https://github.com/CodeThreads-FSA-VP-AM/CodeThreads)  
   
 
 - 🌱 I’m currently learning PERN Stack  
