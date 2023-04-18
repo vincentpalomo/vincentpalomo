@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [code-threads Capstone Project](https://github.com/CodeThreads-FSA-VP-AM/CodeThreads)  
   
 
-- 🌱 I’m currently learning Typescript && Java
+- 🌱 I’m currently learning Typescript
   
 
 - ❓ Ask me about anything related to PERN stack and related technologies  
