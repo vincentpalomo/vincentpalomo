@@ -115,9 +115,9 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vincentpalomo&label=Profile%20views&color=0e75b6&style=flat" alt="vincentpalomo" /> </p>
 
-- 🌱 I’m currently learning **Typescript** && **Java**
+- 🌱 I’m currently learning **Typescript** & **Java**
 
-- 💬 Ask me about **PERN stack**
+- 💬 Ask me about **Javascript/Typescript**
 
 - 📫 How to reach me **vincentpalomo@yahoo.com**
 
