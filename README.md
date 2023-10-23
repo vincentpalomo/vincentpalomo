@@ -1,10 +1,6 @@
-<br clear="both">
-
 <h1 align="center">Hey 👋! I'm Vincent, Software Engineer</h1>
 
 ###
-
-<br clear="both">
 
 <h2 align="center">About me</h2>
 
@@ -14,13 +10,9 @@
 
 ###
 
-<br clear="both">
-
 <h2 align="center">Tech stack</h2>
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"  />
@@ -48,16 +40,12 @@
 
 ###
 
-<br clear="both">
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vincentpalomo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vincentpalomo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <a href="https://www.linkedin.com/in/vincent-palomo" target="_blank">
