@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Data Structures & Algorithms<br>🎯 Goals: Become a successful Fullstack Developer<br>🎲 Fun fact: I enjoy sci-fi & fantasy</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Data Structures & Algorithms<br>🎯 Goals: Become a successful Fullstack Developer<br>🎲 Fun fact: I enjoy sci-fi & fantasy</p>
 
 ###
 
