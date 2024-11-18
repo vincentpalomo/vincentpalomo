@@ -1,8 +1,17 @@
-<h1 align="left">Hey 👋! I'm Vincent, Fullstack Developer</h1>
+<h1 align="left">Hi, I'm Vincent, Fullstack Developer ✌</h1>
 
 ###
 
-<p align="left">I'm a Full Stack Developer passionate about building secure, dynamic web applications across various industries. My work is driven by a commitment to best practices and delivering high-quality solutions that enhance user experiences and meet organizational goals. </p>
+```javascript
+const vincent = {
+  frontend: [Javascript, Typescript, HTML, CSS, React, Nextjs, tailwindcss],
+  backend: [Python, Java, nodejs, expressjs, postgreSQL],
+  testing: [Jest, Playwright],
+  tools: [git, figma, webflow, linux, docker],
+  about: "My work is driven by a commitment to best practices and delivering high-quality
+          solutions that enhance user experiences and meet organizational goals."
+}
+```
 
 <p align="left">I’m always open to collaborating on exciting projects or just chatting about tech. Check out my repos and feel free to reach out! </p>
 
@@ -12,7 +21,7 @@
 
 <p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Data Structures & Algorithms<br>🎯 Goals: Become a successful Fullstack Developer<br>🎲 Fun fact: I enjoy sci-fi & fantasy</p> -->
 
-###
+<!-- ###
 
 <h2 align="left">Tech stack</h2>
 
@@ -42,13 +51,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-</div>
+</div> -->
 
 ###
 
 <div align="left">
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=vincentpalomo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vincentpalomo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vincentpalomo&locale=en&hide_title=false&layout=compact&card_width=800&langs_count=6&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
