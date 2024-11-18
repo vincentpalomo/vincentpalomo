@@ -1,6 +1,8 @@
-<h1 align="center">Hey 👋! I'm Vincent, Fullstack Developer</h1>
+<h1 align="left">Hey 👋! I'm Vincent, Fullstack Developer</h1>
 
 ###
+
+<p align="left">I'm a Full Stack Developer passionate about building secure, dynamic web applications across various industries. My work is driven by a commitment to best practices and delivering high-quality solutions that enhance user experiences and meet organizational goals. </p>
 
 <!-- <h2 align="center">About me</h2>
 
