@@ -2,11 +2,11 @@
 
 ###
 
-<h2 align="center">About me</h2>
+<!-- <h2 align="center">About me</h2>
 
-###
+### 
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Data Structures & Algorithms<br>🎯 Goals: Become a successful Fullstack Developer<br>🎲 Fun fact: I enjoy sci-fi & fantasy</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Data Structures & Algorithms<br>🎯 Goals: Become a successful Fullstack Developer<br>🎲 Fun fact: I enjoy sci-fi & fantasy</p> -->
 
 ###
 
