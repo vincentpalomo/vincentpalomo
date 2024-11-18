@@ -8,8 +8,8 @@ const vincent = {
   backend: [Python, Java, nodejs, expressjs, postgreSQL],
   testing: [Jest, Playwright],
   tools: [git, figma, webflow, linux, docker],
-  about: "My work is driven by a commitment to best practices and delivering high-quality
-          solutions that enhance user experiences and meet organizational goals."
+  about: "I build full-stack web applications with a focus on clean code, seamless user experiences,
+          and scalable solutions using React, Node.js, and PostgreSQL."
 }
 ```
 
