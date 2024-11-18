@@ -4,6 +4,8 @@
 
 <p align="left">I'm a Full Stack Developer passionate about building secure, dynamic web applications across various industries. My work is driven by a commitment to best practices and delivering high-quality solutions that enhance user experiences and meet organizational goals. </p>
 
+<p align="left">I’m always open to collaborating on exciting projects or just chatting about tech. Check out my repos and feel free to reach out! </p>
+
 <!-- <h2 align="center">About me</h2>
 
 ### 
@@ -16,7 +18,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
